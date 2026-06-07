@@ -2,7 +2,7 @@
         全体
 -------------------- */
 :root {
-  --theme-color: #03a0a0;
+  --theme-color: #00a0a0;
 }
 
 * {
@@ -17,7 +17,7 @@ html, body {
 body {
   margin: 0;
   padding: 30px;
-  color: #1a33;
+  color: #4f33;
 }
 
 /* --------------------
