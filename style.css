@@ -28,7 +28,7 @@ body {
 h1, h2, h3 {
   color: var(--theme-color);
   border-bottom: dashed 0.1em var(--theme-color);
-        max-width: 1400em;
+        max-width: 400em;
 }
 
 /* --------------------
